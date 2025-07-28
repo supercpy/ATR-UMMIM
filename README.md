@@ -1,6 +1,6 @@
-# ATR-UMMIM Dataset
+# ATR-UMMIR Dataset
 
-**ATR-UMMIM** (Unmanned Multimodal Image Matching) is a large-scale dataset for multimodal image registration and matching in aerial scenarios. It focuses on aligning visible and infrared image pairs captured by UAVs under diverse real-world conditions. This dataset is designed to advance research in multimodal image alignment, fusion-based detection, and condition-aware visual understanding.
+**ATR-UMMIR** (Unmanned Multimodal Image Matching) is a large-scale dataset for multimodal image registration and matching in aerial scenarios. It focuses on aligning visible and infrared image pairs captured by UAVs under diverse real-world conditions. This dataset is designed to advance research in multimodal image alignment, fusion-based detection, and condition-aware visual understanding.
 
 ## 📂 Dataset Overview
 
@@ -49,12 +49,12 @@ This rich condition diversity enables robust evaluation of multimodal models und
 
 ## 📄 Citation
 
-If you use ATR-UMMIM in your research, please cite:
+If you use ATR-UMMIR in your research, please cite:
 
 ```bibtex
 @misc{ATRUMMIM2025,
-  title={ATR-UMMIM: A Multimodal UAV Image Matching Dataset under Diverse Conditions},
+  title={ATR-UMMIR: A Multimodal UAV Image Matching Dataset under Diverse Conditions},
   author={Your Name and Others},
   year={2025},
-  howpublished={\url{https://github.com/yourname/ATR-UMMIM}},
+  howpublished={\url{https://github.com/yourname/ATR-UMMIR}},
 }
